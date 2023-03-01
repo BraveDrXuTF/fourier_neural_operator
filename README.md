@@ -1,4 +1,4 @@
-# Fourier Neural Operator
+# 老版的Fourier Neural Operator
 
 This repository contains the code for the paper:
 - [(FNO) Fourier Neural Operator for Parametric Partial Differential Equations](https://arxiv.org/abs/2010.08895)
